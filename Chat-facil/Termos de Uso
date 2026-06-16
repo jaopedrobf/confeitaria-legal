@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Termos de Uso – Chat Fácil</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f9f9f9;
+      color: #1a1a1a;
+      line-height: 1.75;
+      font-size: 16px;
+    }
+    .container {
+      max-width: 820px;
+      margin: 48px auto;
+      background: #fff;
+      border-radius: 12px;
+      padding: 56px 64px;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+    }
+    header { margin-bottom: 40px; }
+    header h1 { font-size: 28px; font-weight: 700; color: #111; }
+    header p { color: #666; font-size: 14px; margin-top: 6px; }
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #111;
+      margin: 36px 0 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid #f0f0f0;
+    }
+    p { margin-bottom: 14px; color: #333; }
+    ul { margin: 12px 0 14px 20px; }
+    li { margin-bottom: 8px; color: #333; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight {
+      background: #fff8e1;
+      border-left: 4px solid #f5a623;
+      padding: 14px 18px;
+      border-radius: 4px;
+      margin: 20px 0;
+      font-size: 15px;
+    }
+    .danger {
+      background: #fff0f0;
+      border-left: 4px solid #cc0000;
+      padding: 14px 18px;
+      border-radius: 4px;
+      margin: 20px 0;
+      font-size: 15px;
+    }
+    footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 13px; color: #999; }
+    @media (max-width: 640px) {
+      .container { margin: 0; border-radius: 0; padding: 32px 24px; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Termos de Uso</h1>
+    <p>Chat Fácil &mdash; Última atualização: junho de 2025</p>
+  </header>
+
+  <p>Bem-vindo ao <strong>Chat Fácil</strong>. Ao criar uma conta e utilizar nossa plataforma, você concorda com os presentes Termos de Uso. Caso não concorde com qualquer disposição, não utilize o serviço.</p>
+
+  <h2>1. Sobre o serviço</h2>
+  <p>O Chat Fácil é uma plataforma SaaS que permite a empresas e profissionais criarem, configurarem e operarem chatbots e automações de atendimento via WhatsApp, por meio de integração com a WhatsApp Business API fornecida pela Meta Platforms. A plataforma oferece funcionalidades como:</p>
+  <ul>
+    <li>Criação e gerenciamento de fluxos de conversa automatizados;</li>
+    <li>Integração com sistemas externos via API (agendamentos, pedidos, delivery, entre outros);</li>
+    <li>Painel de gestão de conversas e relatórios de atendimento;</li>
+    <li>Conexão do número WhatsApp Business do cliente à plataforma via Embedded Signup (Meta).</li>
+  </ul>
+
+  <h2>2. Cadastro e conta</h2>
+  <p>Para utilizar o Chat Fácil, é necessário criar uma conta com informações verdadeiras, completas e atualizadas. Você é responsável por:</p>
+  <ul>
+    <li>Manter a confidencialidade das suas credenciais de acesso;</li>
+    <li>Toda e qualquer atividade realizada por meio da sua conta;</li>
+    <li>Notificar imediatamente o Chat Fácil em caso de uso não autorizado da conta.</li>
+  </ul>
+  <p>O Chat Fácil reserva-se o direito de recusar cadastros, suspender ou encerrar contas que violem estes Termos ou as políticas da Meta.</p>
+
+  <h2>3. Integração com WhatsApp Business API (Meta)</h2>
+  <p>O uso da plataforma implica a aceitação dos termos da Meta Platforms para uso da WhatsApp Business API. O cliente é responsável por:</p>
+  <ul>
+    <li>Possuir ou ter autorização legal para usar o número WhatsApp Business conectado;</li>
+    <li>Ter uma conta ativa no Meta Business Manager;</li>
+    <li>Cumprir os <a href="https://www.whatsapp.com/legal/business-policy" target="_blank">Termos de Serviço do WhatsApp Business</a> e as <a href="https://developers.facebook.com/docs/whatsapp/overview/policy" target="_blank">Políticas de Uso da API</a>;</li>
+    <li>Garantir que os usuários finais forneceram consentimento (opt-in) para receber mensagens automatizadas.</li>
+  </ul>
+  <div class="highlight">
+    O Chat Fácil atua como facilitador técnico da integração. A responsabilidade pelo conteúdo das mensagens enviadas e pelo cumprimento das políticas da Meta é do cliente contratante.
+  </div>
+
+  <h2>4. Uso aceitável</h2>
+  <p>Ao utilizar o Chat Fácil, você concorda em não:</p>
+  <ul>
+    <li>Enviar mensagens de spam, conteúdo enganoso ou não solicitado;</li>
+    <li>Violar direitos de terceiros, incluindo privacidade e propriedade intelectual;</li>
+    <li>Utilizar a plataforma para atividades ilegais, fraudulentas ou que violem a legislação brasileira;</li>
+    <li>Tentar acessar, modificar ou danificar a infraestrutura do Chat Fácil;</li>
+    <li>Revender, sublicenciar ou transferir o acesso à plataforma sem autorização expressa;</li>
+    <li>Utilizar a plataforma para disseminar conteúdo ofensivo, discriminatório, violento ou que prejudique menores de idade.</li>
+  </ul>
+  <div class="danger">
+    O descumprimento das políticas de uso da Meta pode resultar na suspensão do número WhatsApp do cliente. O Chat Fácil não se responsabiliza por bloqueios impostos pela Meta decorrentes de mau uso por parte do cliente.
+  </div>
+
+  <h2>5. Planos, pagamentos e cancelamento</h2>
+  <p>O Chat Fácil oferece planos pagos com diferentes funcionalidades. Ao contratar:</p>
+  <ul>
+    <li>A cobrança ocorre de forma recorrente (mensal ou anual), conforme o plano escolhido;</li>
+    <li>Não há reembolso por períodos parciais não utilizados, salvo disposição legal em contrário;</li>
+    <li>O cancelamento pode ser realizado a qualquer momento; o acesso permanece ativo até o fim do período já pago;</li>
+    <li>Preços podem ser reajustados mediante aviso prévio de 30 dias;</li>
+    <li>Custos de conversas cobrados pela Meta são de responsabilidade do cliente e podem ser repassados pelo Chat Fácil conforme o plano contratado.</li>
+  </ul>
+
+  <h2>6. Disponibilidade e suporte</h2>
+  <p>O Chat Fácil envida seus melhores esforços para manter a plataforma disponível de forma contínua, mas não garante disponibilidade ininterrupta. Podem ocorrer interrupções por manutenção, atualizações ou eventos fora do nosso controle (incluindo falhas da infraestrutura da Meta). O suporte é prestado pelos canais disponíveis no site oficial.</p>
+
+  <h2>7. Propriedade intelectual</h2>
+  <p>Todo o conteúdo, código, interface, marca e tecnologia do Chat Fácil são de propriedade exclusiva da plataforma. É vedada a cópia, reprodução ou uso não autorizado de qualquer elemento da plataforma. O cliente retém a propriedade dos fluxos, textos e conteúdos que criar dentro da plataforma.</p>
+
+  <h2>8. Limitação de responsabilidade</h2>
+  <p>O Chat Fácil não se responsabiliza por:</p>
+  <ul>
+    <li>Danos causados por mau uso da plataforma pelo cliente;</li>
+    <li>Suspensão de contas ou números pela Meta decorrente de violação de suas políticas;</li>
+    <li>Perda de dados causada por força maior, falha de terceiros ou erro do usuário;</li>
+    <li>Lucros cessantes ou danos indiretos decorrentes do uso ou impossibilidade de uso da plataforma.</li>
+  </ul>
+  <p>A responsabilidade total do Chat Fácil, em qualquer hipótese, fica limitada ao valor pago pelo cliente no mês em que o dano ocorreu.</p>
+
+  <h2>9. Privacidade</h2>
+  <p>O tratamento de dados pessoais é regido por nossa <a href="./politica-de-privacidade.html">Política de Privacidade</a>, que é parte integrante destes Termos de Uso.</p>
+
+  <h2>10. Modificações dos termos</h2>
+  <p>O Chat Fácil pode atualizar estes Termos a qualquer momento. Alterações relevantes serão comunicadas com antecedência mínima de 15 dias via e-mail ou aviso na plataforma. O uso continuado após as alterações implica concordância com os novos termos.</p>
+
+  <h2>11. Rescisão</h2>
+  <p>O Chat Fácil pode suspender ou encerrar o acesso à plataforma em caso de violação destes Termos, com ou sem aviso prévio, dependendo da gravidade da infração. O cliente pode encerrar sua conta a qualquer momento pelo painel ou por solicitação ao suporte.</p>
+
+  <h2>12. Lei aplicável e foro</h2>
+  <p>Estes Termos são regidos pela legislação brasileira. Para dirimir quaisquer controvérsias, fica eleito o foro da comarca de domicílio do cliente, conforme previsto no Código de Defesa do Consumidor, salvo disposição legal diversa.</p>
+
+  <h2>13. Contato</h2>
+  <p>Em caso de dúvidas sobre estes Termos:</p>
+  <ul>
+    <li>E-mail: <a href="mailto:contato@chatfacil.com.br">contato@chatfacil.com.br</a></li>
+    <li>Plataforma: <a href="https://chatfacil.com.br">chatfacil.com.br</a></li>
+  </ul>
+
+  <footer>
+    &copy; 2025 Chat Fácil. Todos os direitos reservados. Este documento está em conformidade com o Código de Defesa do Consumidor (Lei nº 8.078/1990) e a LGPD (Lei nº 13.709/2018).
+  </footer>
+</div>
+</body>
+</html>
